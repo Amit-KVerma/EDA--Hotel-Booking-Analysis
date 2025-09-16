@@ -1,7 +1,5 @@
 # 🏨 Hotel Booking Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Amit-KVerma/EDA--Hotel-Booking-Analysis/blob/main/EDA_Hotel_Booking_Analysis_.ipynb)
-
 ## 📌 Project Type  
 Exploratory Data Analysis (EDA)  
 **Academic Project**: Almabetter
